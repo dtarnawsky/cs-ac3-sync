@@ -1,0 +1,7 @@
+{
+  "name": "cs-ac3-sync",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
